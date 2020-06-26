@@ -1,0 +1,12 @@
+.\objects\hal_i2c_driver.o: drivers\hal_i2c_driver.c
+.\objects\hal_i2c_driver.o: drivers\hal_i2c_driver.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h
+.\objects\hal_i2c_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h
+.\objects\hal_i2c_driver.o: C:\Users\user\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\hal_i2c_driver.o: ..\led\led.h
+.\objects\hal_i2c_driver.o: .\drivers\hal_gpio_driver.h

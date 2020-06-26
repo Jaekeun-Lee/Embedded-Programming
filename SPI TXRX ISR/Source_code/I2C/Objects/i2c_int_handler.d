@@ -1,0 +1,13 @@
+.\objects\i2c_int_handler.o: userApp\i2c_int_handler.c
+.\objects\i2c_int_handler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c_int_handler.o: .\drivers\hal_i2c_driver.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h
+.\objects\i2c_int_handler.o: C:\Users\user\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\i2c_int_handler.o: ..\led\led.h
+.\objects\i2c_int_handler.o: .\drivers\hal_gpio_driver.h
+.\objects\i2c_int_handler.o: .\inc\stm32f4xx_hal_i2c.h
